@@ -40,6 +40,7 @@ The system features:
 ### Setup Steps
 
 1. Clone the repository:
+   gh repo clone varshini25bcy10046-collab/Authonomous-Delivery-Agent.py
 
 
 2. Create and activate a virtual environment (optional but recommended):
