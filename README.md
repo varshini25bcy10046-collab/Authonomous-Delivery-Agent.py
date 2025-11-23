@@ -7,7 +7,7 @@ An autonomous delivery agent that intelligently navigates grid-based cities usin
 This project implements an autonomous delivery agent that intelligently navigates 2D grid-based city maps using multiple pathfinding algorithms. It simulates real-world delivery scenarios by dynamically adapting routes around moving obstacles and varying terrain costs for efficient package delivery.
 
 The system features:
-- Multiple pathfinding algorithms: BFS, UCS, A*, Hill Climbing with random restarts
+- Multiple pathfindinAg algorithms: BFS, UCS, A*, Hill Climbing with random restarts
 - 8-connected movement allowing diagonal steps with cost adjustments
 - Navigation across diverse terrain types with different traversal costs
 - Dynamic obstacles with predictable movement patterns requiring replanning
